@@ -1,0 +1,3 @@
+Stategy Pattern Example: 
+
+Duck Example
